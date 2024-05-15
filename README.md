@@ -3,7 +3,6 @@
 - 🌱 I’m currently enrolled in the second Master's program in Data Science at the University of Naples Federico II in Italy.
 - 💞️ I’m looking to collaborate on machine learning and data science related projects.
 - 📫 How to reach me: email: raza.mehar@gmail.com
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love to travel, and read nonfiction books.
 
 <!---
